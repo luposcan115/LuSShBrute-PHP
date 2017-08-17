@@ -8,5 +8,5 @@ COMANDI:
 php ssh.php file_dove_salvare.txt 
 ex: php ssh.php save.txt
 
-
+PER FUNZIONARE INOLTRE DOVRETE CREARE IL FILE bios.txt CONTENENTE GLI IP, IL FILE pass.txt CONTENENTE LE PASSWORD, IL FILE user.txt CONTENENTE GLI USER DA UTILIZZARE.
 
